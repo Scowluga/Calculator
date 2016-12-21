@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="title_activity_frag_try">FragTry</string>
+    <string name="action_settings">Settings</string>
+</resources>
